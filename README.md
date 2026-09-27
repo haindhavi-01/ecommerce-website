@@ -29,4 +29,4 @@ A responsive e-commerce website built using HTML, CSS, and JavaScript.
 
 ## Author
 
-Varalakshmi Biguvu
+Golla Haindhavi
